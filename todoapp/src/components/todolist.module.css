@@ -1,0 +1,9 @@
+.list {
+    background-color: aqua;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(10, 10, 10, 0.1);
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 50px;
+}
